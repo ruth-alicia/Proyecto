@@ -1,0 +1,45 @@
+.habitaciones{
+    background-image: url("IMG/Fondo2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: -70px;
+    margin-bottom: -40px;
+    
+}
+   
+.simple{
+    text-align: center;
+    margin-top: 10px;/*altura de arriba*/
+    margin-left:10px ;
+    margin-right: 25px;
+    height: 500px;
+    width: 500px;
+}
+.matrimonial{
+    text-align: center;
+    margin-top: 10px;/*altura de arriba*/
+    margin-left:30px ;
+    margin-right: 40px;
+    height: 500px;
+    width: 500px;
+}
+.doble{
+    text-align: center;
+    margin-top: 10px;/*altura de arriba*/
+    margin-left:40px ;
+    margin-right: 50px;
+    height: 500px;
+    width: 500px;
+}
+.nombre{
+    color: black;
+    text-decoration: solid;
+}
+.detallesSimple.php{
+    text-decoration: none;
+    color: black;
+}
+h2{
+    color: rgb(243, 30, 30);
+    text-decoration: overline;
+}
